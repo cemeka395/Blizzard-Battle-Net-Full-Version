@@ -245,4 +245,4 @@ This repository serves as the official landing page for Blizzard Battle.net. The
 **Get the most recent version of Blizzard Battle.net today!**
 
 ---
-**Last updated:** 2026-10-06 22:04:25 UTC
+**Last updated:** 2026-10-07 01:55:15 UTC
